@@ -1,16 +1,31 @@
-## Hi there 👋
+**Hey there 👋**
 
-<!--
-**dev-siddharths/dev-siddharths** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Siddharth, an aspiring Full-Stack Developer currently focused on building real-world projects and preparing for placements. I mainly work with React, JavaScript, Tailwind, and Node, and I'm improving step-by-step in frontend as well as backend, practicing layouts with tailwind and databases, expressjs in the backend.
 
-Here are some ideas to get you started:
+I like creating things from scratch no copy/paste templates because I want to learn how things actually work. My projects are usually built while learning, debugging, breaking stuff, and fixing it again 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I Work On**
+
+* MERN stack development (Frontend → Backend → Database)
+* React apps with state management & clean component structure
+* Using APIs (Axios / Fetch) and connecting frontend ↔ backend
+* Learning MySQL, MongoDB, and SQL queries for interviews
+* Creating beautiful User Interfaces using Tailwindcss
+
+
+**Tech & Tools I Use**
+
+* Frontend: React, JavaScript, Tailwind, Bootstrap
+* Backend: Node.js, Express.js (learning stage)
+* Database: MySQL, MongoDB
+* Others: Git/GitHub, Render/Vercel for deployment
+
+**✨ A Bit About Me**
+
+🎯 Aiming for a high-salary developer role that isn’t too math-heavy
+💻 Enjoy both backend logic and frontend UI/UX when required
+🌱 Always learning — LeetCode, MERN playlists, SQL & deployments
+🧩 Like building things that are simple, useful, and beginner-friendly
+🎬 Into movies & series — currently watching Law & Order
+
+
