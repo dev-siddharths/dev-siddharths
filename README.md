@@ -63,7 +63,7 @@ Extracts and analyzes resumes against job descriptions with structured insights.
 | Languages | TypeScript, JavaScript, SQL                     |
 | Backend   | NestJS, Express, Node.js, REST APIs, JWT        |
 | Frontend  | Next.js, React, Tailwind CSS                    |
-| Database  | PostgreSQL, MongoDB, TypeORM                    |
+| Database  | PostgreSQL, MongoDB                    |
 | DevOps    | Docker, Vercel, Render, Git                     |
 
 ---
