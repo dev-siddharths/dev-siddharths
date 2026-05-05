@@ -21,7 +21,7 @@ Slot-based booking system designed to handle concurrent requests safely.
 
 **Tech:** `NestJS` `PostgreSQL` `TypeORM` `Next.js` `TypeScript` `Docker` `JWT`
 
-🔗 [Backend](#) · [Frontend](#) · [Docker](#) · [Live](#)
+🔗 [Backend](https://github.com/dev-siddharths/swiftstay_backend) · [Frontend](https://github.com/dev-siddharths/swiftstay_frontend)· [Live](https://swiftstay-frontend-gamma.vercel.app/login)
 
 ---
 
@@ -37,7 +37,7 @@ Extracts and analyzes resumes against job descriptions with structured insights.
 
 **Tech:** `React` `Node.js` `Express` `Affinda API` `REST`
 
-🔗 [Repo](#) · [Live](#)
+🔗 [Repo](https://github.com/dev-siddharths/AI_Resume_Scrapper) · [Live](https://ai-resume-scrapper.vercel.app/Homepage)
 
 ---
 
@@ -78,5 +78,5 @@ Extracts and analyzes resumes against job descriptions with structured insights.
 
 ## 🔗 Connect
 
-- 🌐 [Portfolio](#)
-- 💼 [LinkedIn](#)
+- 🌐 [Portfolio](https://sidportfolio-three.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddharth-surve-365b39234/)
