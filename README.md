@@ -1,74 +1,82 @@
-👋 Siddharth Surve
+# 👋 Siddharth Surve
 
-🚀 Backend-focused Full-Stack Developer
+**🚀 Backend-focused Full-Stack Developer**  
 Building production-grade systems with TypeScript, NestJS, and Next.js
 
 ⚡ Interested in distributed systems, real-time architectures, and scalable backend design
 
-🛠️ What I Build
-🏨 SwiftStay
- — Room Booking Platform
+---
 
-Slot-based booking system designed to handle concurrent requests safely
+## 🛠️ What I Build
 
-Key highlights:
+### 🏨 SwiftStay — Room Booking Platform
 
-Prevents double bookings using transaction-safe operations
-Implements JWT-based authentication & role handling
-Designed backend with clean modular architecture (NestJS)
-Dockerized for consistent deployment
+Slot-based booking system designed to handle concurrent requests safely.
 
-Tech:
-NestJS PostgreSQL TypeORM Next.js TypeScript Docker JWT
+**Key highlights:**
+- Prevents double bookings using transaction-safe operations
+- Implements JWT-based authentication & role handling
+- Designed backend with clean modular architecture (NestJS)
+- Dockerized for consistent deployment
 
-🔗 Backend
- · Frontend
- · Docker
- · Live
+**Tech:** `NestJS` `PostgreSQL` `TypeORM` `Next.js` `TypeScript` `Docker` `JWT`
 
-🤖 AI Resume Analyzer
- — Resume Parsing & Job Matching
+🔗 [Backend](#) · [Frontend](#) · [Docker](#) · [Live](#)
 
-Extracts and analyzes resumes against job descriptions with structured insights
+---
 
-Key highlights:
+### 🤖 AI Resume Analyzer — Resume Parsing & Job Matching
 
-Parses resumes using Affinda API
-Identifies skill gaps vs job requirements
-Generates exportable reports
-Built REST APIs for processing and data flow
+Extracts and analyzes resumes against job descriptions with structured insights.
 
-Tech:
-React Node.js Express Affinda API REST
+**Key highlights:**
+- Parses resumes using Affinda API
+- Identifies skill gaps vs job requirements
+- Generates exportable reports
+- Built REST APIs for processing and data flow
 
-🔗 Repo
- · Live
+**Tech:** `React` `Node.js` `Express` `Affinda API` `REST`
 
-🤝 Open Source Contributions
-🍽️ ecanteen-system
+🔗 [Repo](#) · [Live](#)
 
-📌 17 merged PRs in a collaborative production-style project
+---
 
-Impact:
+## 🤝 Open Source Contributions
 
-Refactored backend into MVC architecture
-Implemented role-based authentication (Clerk)
-Built core order management APIs
-Integrated payment flow (demo gateway)
-Added Cloudinary-based image handling
-⚙️ Tech Stack
+### 🍽️ ecanteen-system
 
-Languages: TypeScript, JavaScript, SQL
-Backend: NestJS, Express, Node.js, REST APIs, JWT
-Frontend: Next.js, React, Tailwind CSS
-Database: PostgreSQL, MongoDB, TypeORM
-DevOps: Docker, Vercel, Render, Git
+📌 **17 merged PRs** in a collaborative production-style project
 
-🎯 Currently
-MCA student focused on scalable backend systems
-Exploring concurrency, transactions, and system design
-Open to Backend / Full-Stack roles & internships
+**Impact:**
+- Refactored backend into MVC architecture
+- Implemented role-based authentication (Clerk)
+- Built core order management APIs
+- Integrated payment flow (demo gateway)
+- Added Cloudinary-based image handling
 
-🔗 Connect
-🌐 Portfolio
-💼 LinkedIn
+---
+
+## ⚙️ Tech Stack
+
+| Category  | Technologies                                    |
+|-----------|-------------------------------------------------|
+| Languages | TypeScript, JavaScript, SQL                     |
+| Backend   | NestJS, Express, Node.js, REST APIs, JWT        |
+| Frontend  | Next.js, React, Tailwind CSS                    |
+| Database  | PostgreSQL, MongoDB, TypeORM                    |
+| DevOps    | Docker, Vercel, Render, Git                     |
+
+---
+
+## 🎯 Currently
+
+- MCA student focused on scalable backend systems
+- Exploring concurrency, transactions, and system design
+- Open to Backend / Full-Stack roles & internships
+
+---
+
+## 🔗 Connect
+
+- 🌐 [Portfolio](#)
+- 💼 [LinkedIn](#)
