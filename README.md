@@ -41,11 +41,13 @@ Extracts and analyzes resumes against job descriptions with structured insights.
 
 ---
 
+
+
 ## 🤝 Open Source Contributions
 
-### 🍽️ ecanteen-system
+### 🍽️ [ecanteen-system](https://github.com/Prajapati-Shivam/ecanteen-system)
 
-📌 **17 merged PRs** in a collaborative production-style project
+📌 **17 merged PRs** in a collaborative production-style project · [View all →](https://github.com/Prajapati-Shivam/ecanteen-system/pulls?q=is%3Apr+author%3Adev-siddharths+is%3Amerged)
 
 **Impact:**
 - Refactored backend into MVC architecture
@@ -53,8 +55,6 @@ Extracts and analyzes resumes against job descriptions with structured insights.
 - Built core order management APIs
 - Integrated payment flow (demo gateway)
 - Added Cloudinary-based image handling
-
----
 
 ## ⚙️ Tech Stack
 
